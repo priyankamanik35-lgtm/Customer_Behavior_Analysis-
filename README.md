@@ -84,9 +84,11 @@ mysql-connector-python
 
 ## 📁 Repository Structure
 
-```
-├── customer_behaviour Python file.ipynb   # Data cleaning & EDA
-├── customer_behaviour sql file.sql        # Schema + analytical queries
-├── customer_behaviour powerbi file.pbix   # Interactive dashboard
+├── [customer_behaviour Python file.ipynb](https://github.com/priyankamanik35-lgtm/Customer_Behavior_Analysis-/blob/main/customer_behaviour%20Python%20file.ipynb)   # Data cleaning & EDA
+
+├── [customer_behaviour sql file.sql](https://github.com/priyankamanik35-lgtm/Customer_Behavior_Analysis-/blob/main/customer_behaviour%20sql%20file.sql)        # Schema + analytical queries
+
+├── [customer_behaviour powerbi file.pbix](https://github.com/priyankamanik35-lgtm/Customer_Behavior_Analysis-/blob/main/customer_behaviour%20powerbi%20file.pbix)   # Interactive dashboard
+
 └── README.md
-```
+
